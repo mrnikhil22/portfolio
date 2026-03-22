@@ -75,22 +75,22 @@ function App() {
             <div className="card modern-card">
               <h3>AI Disease Detection</h3>
               <p>AI-based system to predict diseases using symptoms</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank">View →</a>
+              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noreferrer">View →</a>
             </div>
             <div className="card modern-card">
               <h3>Heart Disease Prediction</h3>
               <p>Machine Learning model using real dataset</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank">View →</a>
+              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noreferrer">View →</a>
             </div>
             <div className="card modern-card">
               <h3>Portfolio Website</h3>
               <p>Modern portfolio built with React</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank">View →</a>
+              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noreferrer">View →</a>
             </div>
             <div className="card modern-card">
               <h3>DSA Problem Solver</h3>
               <p>Optimized DSA solutions in C++</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank">View →</a>
+              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noreferrer">View →</a>
             </div>
           </div>
         </section>
@@ -100,7 +100,7 @@ function App() {
           <h2 className="section-title">Certificates</h2>
           <div className="grid certificates-grid">
             {certificates.map((cert) => (
-              <a href={cert.link} target="_blank" key={cert.title} className="card modern-card cert-link">
+              <a href={cert.link} target="_blank" rel="noreferrer" key={cert.title} className="card modern-card cert-link">
                 {cert.title}
               </a>
             ))}
@@ -134,7 +134,7 @@ function App() {
           <h2 className="section-title">Resume</h2>
           <div className="resume-box modern-card">
             <p>Download or view my resume:</p>
-            <a href="https://your-link.com/NikhilVermaResume.pdf" target="_blank" className="resume-link">
+            <a href="https://your-link.com/NikhilVermaResume.pdf" target="_blank" rel="noreferrer" className="resume-link">
               <FaDownload /> View Resume
             </a>
           </div>
@@ -147,11 +147,11 @@ function App() {
             <p><FaEnvelope /> vermanikhil7275@gmail.com</p>
             <p>
               <FaGithub />
-              <a href="https://github.com/mrnikhil22" target="_blank"> GitHub</a>
+              <a href="https://github.com/mrnikhil22" target="_blank" rel="noreferrer"> GitHub</a>
             </p>
             <p>
               <FaLinkedin />
-              <a href="https://www.linkedin.com/in/nikhil-verma-8630a725b/" target="_blank"> LinkedIn</a>
+              <a href="https://www.linkedin.com/in/nikhil-verma-8630a725b/" target="_blank" rel="noreferrer"> LinkedIn</a>
             </p>
           </div>
         </section>
