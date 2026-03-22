@@ -134,7 +134,7 @@ function App() {
           <h2 className="section-title">Resume</h2>
           <div className="resume-box modern-card">
             <p>Download or view my resume:</p>
-            <a href="https://your-link.com/NikhilVermaResume.pdf" target="_blank" rel="noreferrer" className="resume-link">
+            <a href="https://1drv.ms/b/c/4863cb8b39e28396/IQCh26XEklCmQLUu_tolYDPIAcaiFASpPox0TBNGV4TfGkE?e=dh0e1D" target="_blank" rel="noreferrer" className="resume-link">
               <FaDownload /> View Resume
             </a>
           </div>
