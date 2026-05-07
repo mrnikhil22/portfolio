@@ -73,24 +73,24 @@ function App() {
           <h2 className="section-title">Projects</h2>
           <div className="grid projects-grid">
             <div className="card modern-card">
-              <h3>AI Disease Detection</h3>
-              <p>AI-based system to predict diseases using symptoms</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noopener noreferrer">View →</a>
+              <h3>Heart Disease Prediction</h3>
+              <p>Developed a Heart Disease Prediction System using Machine Learning</p>
+              <a href="https://github.com/mrnikhil22/Heart-Disease-Prediction-AI" target="_blank" rel="noopener noreferrer">View →</a>
             </div>
             <div className="card modern-card">
-              <h3>Heart Disease Prediction</h3>
-              <p>Machine Learning model using real dataset</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noopener noreferrer">View →</a>
+              <h3>Real Time Chat Application</h3>
+              <p>Developed a real-time chat application using React, Node.js,Socket.IO, and MongoDB</p>
+              <a href="https://github.com/mrnikhil22/real-time-chat-application" target="_blank" rel="noopener noreferrer">View →</a>
             </div>
             <div className="card modern-card">
               <h3>Portfolio Website</h3>
               <p>Modern portfolio built with React</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noopener noreferrer">View →</a>
+              <a href="https://github.com/mrnikhil22/portfolio" target="_blank" rel="noopener noreferrer">View →</a>
             </div>
             <div className="card modern-card">
-              <h3>DSA Problem Solver</h3>
-              <p>Optimized DSA solutions in C++</p>
-              <a href="https://github.com/mrnikhil22/YOUR_LINK" target="_blank" rel="noopener noreferrer">View →</a>
+              <h3>wheather-detection</h3>
+              <p>Built a GUI-based Weather</p>
+              <a href="https://github.com/mrnikhil22/wheather-detection" target="_blank" rel="noopener noreferrer">View →</a>
             </div>
           </div>
         </section>
